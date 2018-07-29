@@ -1,0 +1,7 @@
+{
+  "main": "index.html",
+  "name": "nw-demo",
+  "dependencies": {
+    "utf8": "^3.0.0"
+  }
+}
